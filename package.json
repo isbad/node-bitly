@@ -59,7 +59,7 @@
     "sepia": "^2.0.1"
   },
   "dependencies": {
-    "boom": "^3.0.0",
+    "boom": "^2.0.0",
     "isomorphic-fetch": "^2.2.0",
     "valid-url": "^1.0.9"
   },
